@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Lab6/Ex2/bin/Debug/Ex2.exe
+/Users/mac/RiderProjects/Lab6/Ex2/bin/Debug/Ex2.pdb
+/Users/mac/RiderProjects/Lab6/Ex2/obj/Debug/Ex2.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab6/Ex2/obj/Debug/Ex2.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab6/Ex2/obj/Debug/Ex2.exe
+/Users/mac/RiderProjects/Lab6/Ex2/obj/Debug/Ex2.pdb

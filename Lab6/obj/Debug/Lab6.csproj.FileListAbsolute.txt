@@ -1,0 +1,2 @@
+/Users/mac/RiderProjects/Lab6/Lab6/obj/Debug/Lab6.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab6/Lab6/obj/Debug/Lab6.csproj.CoreCompileInputs.cache
